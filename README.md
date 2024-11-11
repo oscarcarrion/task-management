@@ -27,4 +27,7 @@ A scalable task management system built with React, TypeScript, and Node.js.
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository
+2. Install dependencies
+3. Start the frontend
+4. Start the backend
